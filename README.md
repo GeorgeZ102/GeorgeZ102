@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GeorgeZ102
+- 👀 I’m interested in C+
+- 🌱 I’m currently learning about Linux, Ethical Hacking and Programming
